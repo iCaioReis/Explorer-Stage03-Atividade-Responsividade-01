@@ -1,4 +1,4 @@
-# Ativudade de responsividade 01
+# Atividade de responsividade 01
 
 Atividade realizada ao longo das aulas no módulo "Stage 03" do curso Explorer da Rocketseat para colocar em prática os conhecimentos adquiridos sobre responsividade, aplicando os conceitos de mobile-first.
 
